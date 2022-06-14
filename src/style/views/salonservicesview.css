@@ -1,0 +1,90 @@
+img {
+    object-fit: contain;
+}
+
+.salonServicesContainer {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.salonServicesHeadContainer {
+    display: flex;
+    height: 400px;
+    flex-grow: 0;
+}
+
+.salonServicesMainContainer {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.salonServiceBarContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255, 0.8);
+    border-radius: .25rem;
+}
+
+.salonName {
+    font-size: 4rem;
+    margin: 0;
+}
+
+.salonNameContainer {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.serviceContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.serviceInnerContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.chevron-button {
+    padding: 0;
+    background: 0;
+    border: 0;
+}
+
+.chevron-button img {
+    padding: 0;
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+.service-price {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.serviceDescriptionContainer {
+    display: flex;
+    align-items: center;
+}
+
+.serviceDescription {
+    font-size: 20px;
+}
+
+.transparent-button:hover {
+    background-color: rgba(131, 129, 129, 0.5);
+    color: black;
+    transition: .25s;
+    border-radius: 5px;
+}
+
+.transparent-button:active {
+    background-color: rgba(54, 54, 54, 0.5);
+}

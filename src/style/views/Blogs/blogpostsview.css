@@ -1,0 +1,12 @@
+.blogPostsContainer {
+    height: 100%;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.h1 {
+    color: white;
+}

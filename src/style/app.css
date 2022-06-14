@@ -1,0 +1,18 @@
+#app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+html, body {
+    height: 100%;
+    flex-grow: 1;
+}
+
+#app > * {
+    flex-shrink: 0;
+}
+
+main {
+    flex-grow: 1;
+}

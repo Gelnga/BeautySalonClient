@@ -1,0 +1,93 @@
+.userProfileContentContainer {
+    height: 100%;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.userData {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.h2 {
+    color: white;
+}
+
+.appointmentsContainer {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.appointmentContainer {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255, 0.8);
+    border-radius: .25rem;
+}
+
+.appointmentBarContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.appointmentBarInnerContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.chevron-button {
+    padding: 0;
+    background: 0;
+    border: 0;
+}
+
+.chevron-button img {
+    padding: 0;
+    width: 1.75rem;
+    height: 1.75rem;
+    object-fit: contain;
+}
+
+.appointmentDescriptionContainer {
+    display: flex;
+    align-items: center;
+}
+
+.appointmentDescription {
+    font-size: 20px;
+}
+
+.appointmentPrice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.h1 {
+    color: white;
+    font-size: 3rem !important;
+}
+
+.transparent-button {
+    border: 0;
+    border-radius: 5px;
+    background: 0;
+}
+
+.transparent-button:hover {
+    background-color: rgba(131, 129, 129, 0.5);
+    color: black;
+    transition: .25s;
+    border-radius: 5px;
+}
+
+.transparent-button:active {
+    background-color: rgba(54, 54, 54, 0.5);
+}

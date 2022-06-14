@@ -1,0 +1,13 @@
+.blogFormContainer {
+    height: 100%;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+span {
+    color: white !important;
+    font-size: 1.5rem;
+}
