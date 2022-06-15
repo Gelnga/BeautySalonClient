@@ -5,7 +5,7 @@
 ### General information about the project
 The goal of the project was to create an application, that could be used by beauty salon clients to register on appointments. This project was done during university under the Javascript subject. 
 
-Project API is **required** for the client to work properly. It can be found under the following link: https://gitfront.io/r/Gelnga/6YFLxo97cmyV/BeautySalonAPI/
+Project API is **required** for the client to work properly. It can be found under the following link: https://github.com/Gelnga/BeautySalonAPI
 
 ### Some of the crucial topics that were covered during a project implementation: 
 - Javascript basics
