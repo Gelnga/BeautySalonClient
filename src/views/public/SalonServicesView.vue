@@ -3,7 +3,7 @@
         <div class="salonServicesHeadContainer">
             <div class="d-flex justify-content-center w-50">
                 <img class="img-fluid"
-                    src="https://salondechelle.com/wp-content/uploads/2021/01/Salon-Exterior-1-1080x675-1.jpeg"
+                    src="https://images.pexels.com/photos/705255/pexels-photo-705255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                     alt="...">
             </div>
             <div class="salonNameContainer w-50 mx-3">

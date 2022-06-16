@@ -1,7 +1,7 @@
 <template>
     <div class="salonsCatalog mx-5 mt-4 p-2">
         <div  v-for="salon of salonStore.salons" :key="salon.id!"  class="card m-3" style="width: 25rem;">
-            <img src="https://salondechelle.com/wp-content/uploads/2021/01/Salon-Exterior-1-1080x675-1.jpeg"
+            <img src="https://images.pexels.com/photos/705255/pexels-photo-705255.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                 class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">{{ salon.name }}</h5>
